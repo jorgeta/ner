@@ -17,7 +17,7 @@ Start github repository.
 
 ## Wednesday 06.01
 
-Look further into how danlp has fine-tuned the model.
+Look further into how danlp has fine-tuned the model - if this is possible.
 Start evaluating performance of the danlp BertNer model on the dataset.
 Focus on where the model fails.
 Look at what a flair_ner model is.

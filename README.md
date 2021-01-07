@@ -40,3 +40,5 @@ Link to [models](https://github.com/alexandrainst/danlp/tree/master/danlp/models
 [BERT - original paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 [Transformers - original paper](https://arxiv.org/pdf/1706.03762.pdf)
+
+[BERT word embedding tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
