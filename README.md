@@ -42,3 +42,10 @@ Link to [models](https://github.com/alexandrainst/danlp/tree/master/danlp/models
 [Transformers - original paper](https://arxiv.org/pdf/1706.03762.pdf)
 
 [BERT word embedding tutorial](https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/)
+
+[Classification evaluation measurement](https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2)
+
+[Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
+
+[IOB](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging))
+
