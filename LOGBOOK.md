@@ -11,7 +11,7 @@ Read BERT paper.
 
 ### Tuesday 05.01
 
-Busy because of company work. 
+Company work. 
 Read Attention is All You Need paper. 
 Watch videos explaining BERT and transformers. 
 Start looking at how Alexandra Institute has fine-tuned the model. 
@@ -31,18 +31,28 @@ Continue evaluation notebook on the models.
 Research space complexity and how to calculate that.
 Calculate time complexity.
 
-## Plan
-
 ## Saturday 09.01
 
-Look at what a flair_ner model is.
-Set up paper, describe models.
-Output the mistakes that the models make.
-Look at and discuss the mistakes that the models make.
+Company work.
 
 ## Sunday 10.01
 
-Describe the fine-tuning done by danlp.
+Look at what a flair_ner model is.
+Read paper related to the flair model and paper relatied to the BiLSTM-CRF.
+
+## Plan
+
+## Monday 11.01
+
+Master thesis meeting.
+Set up paper, describe models.
+Output the mistakes that the models make.
+Look at and discuss the mistakes that the models make.
 Discuss potential pitfalls and drawbacks of their model.
+
+## Tuesday 12.01
+
+Describe the fine-tuning done by danlp.
+Try to get results on time complexity and/or space complexity.
 
 

@@ -49,3 +49,8 @@ Link to [models](https://github.com/alexandrainst/danlp/tree/master/danlp/models
 
 [IOB](https://en.wikipedia.org/wiki/Inside%E2%80%93outside%E2%80%93beginning_(tagging))
 
+[How to use Flair](https://www.analyticsvidhya.com/blog/2019/02/flair-nlp-library-python/)
+
+[Flair paper](https://www.aclweb.org/anthology/C18-1139.pdf)
+
+[Bidirectional LSTM-CRF Models for Sequence Tagging (paper)](https://arxiv.org/pdf/1508.01991.pdf)
