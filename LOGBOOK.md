@@ -25,34 +25,52 @@ Focus on where the model fails.
 ### Thursday 07.01
 
 Continue evaluation notebook on the models.
+Look at what a flair_ner model is.
+Set up a report outline.
 
 ### Friday 08.01
 
 Research space complexity and how to calculate that.
 Calculate time complexity.
 
-## Saturday 09.01
+### Monday 11.01
 
-Company work.
-
-## Sunday 10.01
-
-Look at what a flair_ner model is.
+Master thesis meeting.
+Questions related to complexity and pre-training.
 Read paper related to the flair model and paper relatied to the BiLSTM-CRF.
+
+### Tuesday 12.01
+
+Output the mistakes that the models make.
+Look at and discuss the mistakes that the models make.
+
+Read paper related to the danlp repository.
+
+Time complexity: compare timings of all test set data on a CPU and on a GPU for both models.
+
+Space complexity:
+- find the number of parameters used by each model
+- figure out how much space each of the models use on disk 
+    - flair: 474 955 814 bytes (481,5 MB on disk)
+    - bert: 442 545 317 bytes (443,1 MB on disk)
 
 ## Plan
 
-## Monday 11.01
+### Wednesday 13.01
 
-Master thesis meeting.
-Set up paper, describe models.
-Output the mistakes that the models make.
-Look at and discuss the mistakes that the models make.
-Discuss potential pitfalls and drawbacks of their model.
+Status meeting.
+Questions:
+- Problems related to using the models on the GPU.
+- BERT and Flair has 9 and 10 classes respectively, haven't figured out why.
+- None of the models does ever predict MISC.
+- WHat does inference mean when talking about memory usage during inference?
 
-## Tuesday 12.01
+Continue work on time and space complexity.
+
+### Thursday 14.01
 
 Describe the fine-tuning done by danlp.
-Try to get results on time complexity and/or space complexity.
+Set up paper, describe models.
 
+Look at the outputted mistakes that the models make, and discuss potential pitfalls and drawbacks of their model.
 

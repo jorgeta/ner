@@ -54,3 +54,5 @@ Link to [models](https://github.com/alexandrainst/danlp/tree/master/danlp/models
 [Flair paper](https://www.aclweb.org/anthology/C18-1139.pdf)
 
 [Bidirectional LSTM-CRF Models for Sequence Tagging (paper)](https://arxiv.org/pdf/1508.01991.pdf)
+
+[Finetuning of the BERT model](https://huggingface.co/transformers/model_doc/bert.html?highlight=bertfortokenclassification#transformers.BertForTokenClassification)
