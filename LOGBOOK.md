@@ -54,8 +54,6 @@ Space complexity:
     - flair: 474 955 814 bytes (481,5 MB on disk)
     - bert: 442 545 317 bytes (443,1 MB on disk)
 
-## Plan
-
 ### Wednesday 13.01
 
 Status meeting.
@@ -65,9 +63,27 @@ Questions:
 - None of the models does ever predict MISC.
 - WHat does inference mean when talking about memory usage during inference?
 
-Continue work on time and space complexity.
-
 ### Thursday 14.01
+
+Calibration.
+
+Confusion matrices.
+
+Analysis of sentences where the predictions are wrong.
+
+Look at probabilities that the softmax outputs.
+
+## Plan
+
+### Friday 15.01
+
+Look at the same as on Thursday for flair.
+
+Status meeting.
+
+### For later maybe
+
+Continue work on time and space complexity.
 
 Describe the fine-tuning done by danlp.
 Set up paper, describe models.
