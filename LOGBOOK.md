@@ -73,20 +73,52 @@ Analysis of sentences where the predictions are wrong.
 
 Look at probabilities that the softmax outputs.
 
-## Plan
-
 ### Friday 15.01
 
 Look at the same as on Thursday for flair.
 
-Status meeting.
+### Monday 18.01
 
-### For later maybe
+Focus on flair model performance, look at calibration and possibilities to improve the flair predictions.
 
-Continue work on time and space complexity.
+### Tuesday 19.01
 
-Describe the fine-tuning done by danlp.
-Set up paper, describe models.
+Company work.
 
-Look at the outputted mistakes that the models make, and discuss potential pitfalls and drawbacks of their model.
+Start writing the report.
 
+Calibrate the flair classifier.
+
+Evaluate the calibrated classifier.
+
+## Plan
+
+### Wednesday 20.01
+
+Write about theory: Transformers, BERT, BiLSTM-CRF, and word embeddings.
+
+Write about findings on time complexity and space complexity.
+
+Write about BertNer evaluation.
+
+Get all plots and references into the paper. Remember to crop off the edges of the figures.
+
+### Thursday 21.01
+
+Write about flairNer evaluation.
+
+Write about the calibration and the calibrated model.
+
+### Friday 22.01
+
+Write about the sentences, and the comparison between the models.
+
+Write the conclusion.
+
+Clean up the main notebook.
+
+Clean up the github repository.
+
+Link to the github repository in the paper.
+
+Add the project pdf to the repository.
