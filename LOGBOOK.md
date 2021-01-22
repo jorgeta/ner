@@ -91,19 +91,17 @@ Calibrate the flair classifier.
 
 Evaluate the calibrated classifier.
 
-## Plan
-
 ### Wednesday 20.01
+
+Get all plots, tables and references into the paper. Remember to crop off the edges of the figures.
+
+### Thursday 21.01
 
 Write about theory: Transformers, BERT, BiLSTM-CRF, and word embeddings.
 
 Write about findings on time complexity and space complexity.
 
 Write about BertNer evaluation.
-
-Get all plots and references into the paper. Remember to crop off the edges of the figures.
-
-### Thursday 21.01
 
 Write about flairNer evaluation.
 
